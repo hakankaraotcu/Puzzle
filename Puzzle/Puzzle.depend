@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1619545585 source:c:\users\hakan\documents\c uygulamalarý\puzzle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<ctype.h>
+
+1619180764 source:c:\users\hakan\documents\c uygulamalarý\untitled1.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+
+1619180641 source:c:\users\hakan\documents\c uygulamalarý\mainn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+
